@@ -1,0 +1,388 @@
+425 Alarm off
+376 Alarm on
+55 Alarm on-for-timer .*
+819 AllLights LastDevice: Alarm
+26 AllLights LastDevice: Livingroom
+26 AllLights LastDevice: Office
+20 AllLights LastDevice: Outdoor
+819 AllLights LastDevice_Abs: Alarm
+26 AllLights LastDevice_Abs: Livingroom
+26 AllLights LastDevice_Abs: Office
+20 AllLights LastDevice_Abs: Outdoor
+426 AllLights off
+33 AllLights on
+477 AllLights undefined
+1 CT off
+406 CUL_0 TRANSMIT LIMIT EXCEEDED
+11 CeilingLight dim0%
+19 CeilingLight dim37%
+33 CeilingLight off
+1 Lamp1 on
+6 Livingroom dim0%
+1 Livingroom dim06%
+12 Livingroom dim100%
+1 Livingroom dim18%
+1 Livingroom dim37%
+3 Livingroom dim50%
+1 Livingroom dim62%
+1 Livingroom dim68%
+3 Livingroom dim75%
+2 Livingroom dim87%
+20 Livingroom off
+22 Livingroom on
+1 Office dim100%
+1 Office dim50%
+1 Office dim75%
+1 Office dim93%
+31 Office off
+35 Office on
+28 Outdoor off
+29 Outdoor on
+5 Outdoor on-for-timer .*
+29 Projector off
+17 Projector on
+2 Projector state: off
+2 Projector state: on
+1 RGB off
+7 ReadingLight dim0%
+13 ReadingLight dim12%
+19 ReadingLight dim37%
+24 ReadingLight off
+1 SVG_01_Garden copyGplotFile
+1 SVG_02_Cellar copyGplotFile
+1 SVG_03_Dewpoint copyGplotFile
+1 SVG_Log.Cellar_1 copyGplotFile
+2 SVG_Log.Dewpoint_1 copyGplotFile
+1 SVG_Log.Garden_1 copyGplotFile
+17 Screen down
+30 Screen up
+1 Sens.Out T: .* IR: no
+31 TV off
+14 TV on
+1 Weather apiVersion: v1.*
+1 Weather apparentTemperature: .*
+1 Weather cloudCover: .*
+1 Weather code: .*
+1 Weather condition: Heiter
+1 Weather current_date_time: Sun, .*
+1 Weather dewPoint: .*
+1 Weather hfc1_cloudCover: .*
+1 Weather hfc1_code: .*
+1 Weather hfc1_condition: Heiter
+1 Weather hfc1_day_of_week: Tue, .*
+1 Weather hfc1_dewPoint: .*
+1 Weather hfc1_humidity: .*
+1 Weather hfc1_icon: sunny
+1 Weather hfc1_iconAPI: clear-night
+1 Weather hfc1_ozone: .*
+1 Weather hfc1_precipIntensity: .*
+1 Weather hfc1_precipProbability: .*
+1 Weather hfc1_precipType: -
+1 Weather hfc1_pressure: .*
+1 Weather hfc1_pubDate: Tue, .*
+1 Weather hfc1_temperature: .*
+1 Weather hfc1_uvIndex: .*
+1 Weather hfc1_visibility: .*
+1 Weather hfc1_wind: .*
+1 Weather hfc1_windGust: .*
+1 Weather hfc1_wind_condition: Wind: O .* km/h
+1 Weather hfc1_wind_direction: .*
+1 Weather hfc1_wind_speed: .*
+1 Weather hfc2_cloudCover: .*
+1 Weather hfc2_code: .*
+1 Weather hfc2_condition: Heiter
+1 Weather hfc2_day_of_week: Tue, .*
+1 Weather hfc2_dewPoint: .*
+1 Weather hfc2_humidity: .*
+1 Weather hfc2_icon: sunny
+1 Weather hfc2_iconAPI: clear-night
+1 Weather hfc2_ozone: .*
+1 Weather hfc2_precipIntensity: .*
+1 Weather hfc2_precipProbability: .*
+1 Weather hfc2_precipType: -
+1 Weather hfc2_pressure: .*
+1 Weather hfc2_pubDate: Tue, .*
+1 Weather hfc2_temperature: .*
+1 Weather hfc2_uvIndex: .*
+1 Weather hfc2_visibility: .*
+1 Weather hfc2_wind: .*
+1 Weather hfc2_windGust: .*
+1 Weather hfc2_wind_condition: Wind: O .* km/h
+1 Weather hfc2_wind_direction: .*
+1 Weather hfc2_wind_speed: .*
+1 Weather hfc3_cloudCover: .*
+1 Weather hfc3_code: .*
+1 Weather hfc3_condition: Heiter
+1 Weather hfc3_day_of_week: Tue, .*
+1 Weather hfc3_dewPoint: .*
+1 Weather hfc3_humidity: .*
+1 Weather hfc3_icon: sunny
+1 Weather hfc3_iconAPI: clear-night
+1 Weather hfc3_ozone: .*
+1 Weather hfc3_precipIntensity: .*
+1 Weather hfc3_precipProbability: .*
+1 Weather hfc3_precipType: -
+1 Weather hfc3_pressure: .*
+1 Weather hfc3_pubDate: Tue, .*
+1 Weather hfc3_temperature: .*
+1 Weather hfc3_uvIndex: .*
+1 Weather hfc3_visibility: .*
+1 Weather hfc3_wind: .*
+1 Weather hfc3_windGust: .*
+1 Weather hfc3_wind_condition: Wind: ONO .* km/h
+1 Weather hfc3_wind_direction: .*
+1 Weather hfc3_wind_speed: .*
+1 Weather hfc4_cloudCover: .*
+1 Weather hfc4_code: .*
+1 Weather hfc4_condition: Leicht bewölkt
+1 Weather hfc4_day_of_week: Wed, .*
+1 Weather hfc4_dewPoint: -.*
+1 Weather hfc4_humidity: .*
+1 Weather hfc4_icon: partly_cloudy_night
+1 Weather hfc4_iconAPI: partly-cloudy-night
+1 Weather hfc4_ozone: .*
+1 Weather hfc4_precipIntensity: .*
+1 Weather hfc4_precipProbability: .*
+1 Weather hfc4_precipType: -
+1 Weather hfc4_pressure: .*
+1 Weather hfc4_pubDate: Wed, .*
+1 Weather hfc4_temperature: .*
+1 Weather hfc4_uvIndex: .*
+1 Weather hfc4_visibility: .*
+1 Weather hfc4_wind: .*
+1 Weather hfc4_windGust: .*
+1 Weather hfc4_wind_condition: Wind: NO .* km/h
+1 Weather hfc4_wind_direction: .*
+1 Weather hfc4_wind_speed: .*
+1 Weather hfc5_cloudCover: .*
+1 Weather hfc5_code: .*
+1 Weather hfc5_condition: Leicht bewölkt
+1 Weather hfc5_day_of_week: Wed, .*
+1 Weather hfc5_dewPoint: -.*
+1 Weather hfc5_humidity: .*
+1 Weather hfc5_icon: partly_cloudy_night
+1 Weather hfc5_iconAPI: partly-cloudy-night
+1 Weather hfc5_ozone: .*
+1 Weather hfc5_precipIntensity: .*
+1 Weather hfc5_precipProbability: .*
+1 Weather hfc5_precipType: -
+1 Weather hfc5_pressure: .*
+1 Weather hfc5_pubDate: Wed, .*
+1 Weather hfc5_temperature: .*
+1 Weather hfc5_uvIndex: .*
+1 Weather hfc5_visibility: .*
+1 Weather hfc5_wind: .*
+1 Weather hfc5_windGust: .*
+1 Weather hfc5_wind_condition: Wind: NNO .* km/h
+1 Weather hfc5_wind_direction: .*
+1 Weather hfc5_wind_speed: .*
+1 Weather hfc6_cloudCover: .*
+1 Weather hfc6_code: .*
+1 Weather hfc6_condition: Leicht bewölkt
+1 Weather hfc6_day_of_week: Wed, .*
+1 Weather hfc6_dewPoint: -.*
+1 Weather hfc6_humidity: .*
+1 Weather hfc6_icon: partly_cloudy_night
+1 Weather hfc6_iconAPI: partly-cloudy-night
+1 Weather hfc6_ozone: .*
+1 Weather hfc6_precipIntensity: .*
+1 Weather hfc6_precipProbability: .*
+1 Weather hfc6_precipType: -
+1 Weather hfc6_pressure: .*
+1 Weather hfc6_pubDate: Wed, .*
+1 Weather hfc6_temperature: .*
+1 Weather hfc6_uvIndex: .*
+1 Weather hfc6_visibility: .*
+1 Weather hfc6_wind: .*
+1 Weather hfc6_windGust: .*
+1 Weather hfc6_wind_condition: Wind: NO .* km/h
+1 Weather hfc6_wind_direction: .*
+1 Weather hfc6_wind_speed: .*
+1 Weather hfc7_cloudCover: .*
+1 Weather hfc7_code: .*
+1 Weather hfc7_condition: Leicht bewölkt
+1 Weather hfc7_day_of_week: Wed, .*
+1 Weather hfc7_dewPoint: -.*
+1 Weather hfc7_humidity: .*
+1 Weather hfc7_icon: partly_cloudy_night
+1 Weather hfc7_iconAPI: partly-cloudy-night
+1 Weather hfc7_ozone: .*
+1 Weather hfc7_precipIntensity: .*
+1 Weather hfc7_precipProbability: .*
+1 Weather hfc7_precipType: -
+1 Weather hfc7_pressure: .*
+1 Weather hfc7_pubDate: Wed, .*
+1 Weather hfc7_temperature: .*
+1 Weather hfc7_uvIndex: .*
+1 Weather hfc7_visibility: .*
+1 Weather hfc7_wind: .*
+1 Weather hfc7_windGust: .*
+1 Weather hfc7_wind_condition: Wind: NO .* km/h
+1 Weather hfc7_wind_direction: .*
+1 Weather hfc7_wind_speed: .*
+1 Weather hfc8_cloudCover: .*
+1 Weather hfc8_code: .*
+1 Weather hfc8_condition: Heiter
+1 Weather hfc8_day_of_week: Wed, .*
+1 Weather hfc8_dewPoint: -.*
+1 Weather hfc8_humidity: .*
+1 Weather hfc8_ozone: .*
+1 Weather hfc8_precipIntensity: .*
+1 Weather hfc8_precipProbability: .*
+1 Weather hfc8_precipType: -
+1 Weather hfc8_pressure: .*
+1 Weather hfc8_temperature: .*
+1 Weather hfc8_visibility: .*
+1 Weather hfc8_wind: .*
+1 Weather hfc8_windGust: .*
+1 Weather hfc8_wind_direction: .*
+1 Weather hfc8_wind_speed: .*
+1 Weather humidity: .*
+1 Weather icon: sunny
+1 Weather iconAPI: clear-night
+1 Weather lastError:
+1 Weather lat: .*
+1 Weather long: .*
+1 Weather ozone: .*
+1 Weather precipIntensity: .*
+1 Weather precipProbability: .*
+1 Weather pressure: .*
+1 Weather pubDate: Tue, .*
+1 Weather status: ok
+1 Weather temp_c: .*
+1 Weather temperature: .*
+1 Weather timezone: Europe/Berlin
+1 Weather uvIndex: .*
+1 Weather validity: up-to-date
+1 Weather visibility: .*
+1 Weather wind: .*
+1 Weather windGust: .*
+1 Weather wind_condition: Wind: O .* km/h
+1 Weather wind_direction: .*
+1 Weather wind_speed: .*
+15 lcCinema scene AllOff
+19 lcCinema scene Break
+16 lcCinema scene Cinema
+13 lcCinema scene WatchTV
+740 minuteTimer 
+1 rg_Guest1 durTimerAbsence: .*
+1 rg_Guest1 durTimerAbsence_cr: .*
+1 rg_Guest2 durTimerAbsence: .*
+1 rg_Guest2 durTimerAbsence_cr: .*
+1 rg_Guest3 durTimerAbsence: .*
+1 rg_Guest3 durTimerAbsence_cr: .*
+1 rg_Guest4 durTimerAbsence: .*
+1 rg_Guest4 durTimerAbsence_cr: .*
+1 rgr_Children durTimerPresence: .*
+1 rgr_Children durTimerPresence_cr: .*
+1 rgr_Children home
+2 rgr_Children lastActivity: gone
+1 rgr_Children lastActivity: home
+1 rgr_Children lastActivityBy: Baby
+1 rgr_Children lastActivityBy: Daughter
+1 rgr_Children lastActivityBy: Son
+1 rgr_Children lastActivityByDev: rr_Daughter
+1 rgr_Children lastActivityByDev: rr_Son
+1 rgr_Children lastAwake: .*
+1 rgr_Children lastDurSleep: .*
+1 rgr_Children lastHomealoneSubtype: baby
+1 rgr_Children lastHomealoneType: ROOMMATE
+1 rgr_Children lastState: asleep
+2 rgr_Children register rr_Baby
+2 rgr_Children register rr_Daughter
+2 rgr_Children register rr_Son
+2 rgr_Children residentsAbsent: .*
+1 rgr_Children residentsAbsentDevs: -
+1 rgr_Children residentsAbsentDevs: rr_Son
+1 rgr_Children residentsAbsentNames: -
+1 rgr_Children residentsAbsentNames: Son
+1 rgr_Children residentsAsleep: .*
+2 rgr_Children residentsGone: .*
+1 rgr_Children residentsGoneDevs: rr_Daughter
+1 rgr_Children residentsGoneDevs: rr_Daughter,rr_Son
+1 rgr_Children residentsGoneNames: Daughter
+1 rgr_Children residentsGoneNames: Daughter, Son
+1 rgr_Children residentsHome: .*
+1 rgr_Children residentsTotalPeople: .*
+1 rgr_Children residentsTotalPeopleAbsent: .*
+1 rgr_Children residentsTotalPeopleAbsentDevs: rr_Daughter,rr_Son
+1 rgr_Children residentsTotalPeopleAbsentNames: Daughter, Son
+1 rgr_Children residentsTotalPeoplePresent: .*
+1 rgr_Children residentsTotalPeoplePresentDevs: rr_Baby
+1 rgr_Children residentsTotalPeoplePresentNames: Baby
+1 rgr_Guests durTimerAbsence: .*
+1 rgr_Guests durTimerAbsence_cr: .*
+2 rgr_Guests register rg_Guest1
+2 rgr_Guests register rg_Guest2
+1 rgr_Parents durTimerPresence: .*
+1 rgr_Parents durTimerPresence_cr: .*
+1 rgr_Parents lastActivity: absent
+1 rgr_Parents lastActivityBy: Father
+2 rgr_Parents register rr_Father
+2 rgr_Parents register rr_Mother
+1 rgr_Parents residentsAbsent: .*
+1 rgr_Parents residentsGone: .*
+1 rgr_Pets durTimerPresence: .*
+1 rgr_Pets durTimerPresence_cr: .*
+1 rgr_Residents durTimerPresence: .*
+1 rgr_Residents durTimerPresence_cr: .*
+1 rgr_Residents lastActivity: absent
+2 rgr_Residents lastActivity: gone
+1 rgr_Residents lastActivity: home
+1 rgr_Residents lastActivityBy: Baby
+1 rgr_Residents lastActivityBy: Daughter
+1 rgr_Residents lastActivityBy: Father
+1 rgr_Residents lastActivityBy: Son
+1 rgr_Residents lastActivityByDev: rr_Daughter
+1 rgr_Residents lastActivityByDev: rr_Son
+2 rgr_Residents register rg_Guest1
+2 rgr_Residents register rg_Guest2
+2 rgr_Residents register rr_Baby
+2 rgr_Residents register rr_Daughter
+2 rgr_Residents register rr_Father
+2 rgr_Residents register rr_Mother
+2 rgr_Residents register rr_Son
+3 rgr_Residents residentsAbsent: .*
+1 rgr_Residents residentsAbsentDevs: -
+1 rgr_Residents residentsAbsentDevs: rr_Son
+1 rgr_Residents residentsAbsentNames: -
+1 rgr_Residents residentsAbsentNames: Son
+1 rgr_Residents residentsAsleep: .*
+3 rgr_Residents residentsGone: .*
+1 rgr_Residents residentsGoneDevs: rr_Daughter
+1 rgr_Residents residentsGoneDevs: rr_Daughter,rr_Son
+1 rgr_Residents residentsGoneNames: Daughter
+1 rgr_Residents residentsGoneNames: Daughter, Son
+1 rgr_Residents residentsHome: .*
+1 rgr_Residents residentsTotalPeople: .*
+1 rgr_Residents residentsTotalPeopleAbsent: .*
+1 rgr_Residents residentsTotalPeopleAbsentDevs: rr_Daughter,rr_Son
+1 rgr_Residents residentsTotalPeopleAbsentNames: Daughter, Son
+1 rgr_Residents residentsTotalPeoplePresent: .*
+1 rgr_Residents residentsTotalPeoplePresentDevs: rr_Baby,rr_Father,rr_Mother
+1 rgr_Residents residentsTotalPeoplePresentNames: Baby, Father, Mother
+1 rp_Dog durTimerPresence: .*
+1 rp_Dog durTimerPresence_cr: .*
+2 rr_Baby durTimerPresence: .*
+1 rr_Baby durTimerPresence_cr: .*
+2 rr_Baby durTimerSleep: .*
+1 rr_Baby home
+1 rr_Baby lastAwake: .*
+1 rr_Baby lastDurSleep: .*
+1 rr_Baby lastState: asleep
+1 rr_Baby mood: calm
+3 rr_Daughter durTimerAbsence: .*
+1 rr_Daughter durTimerAbsence_cr: .*
+1 rr_Daughter lastState: absent
+1 rr_Daughter state: gone
+1 rr_Father absent
+2 rr_Father durTimerAbsence: .*
+1 rr_Father durTimerPresence: .*
+1 rr_Father durTimerPresence_cr: .*
+1 rr_Father lastState: gone
+3 rr_Mother durTimerPresence: .*
+1 rr_Mother durTimerPresence_cr: .*
+3 rr_Son durTimerAbsence: .*
+1 rr_Son durTimerAbsence_cr: .*
+1 rr_Son lastState: absent
+1 rr_Son state: gone

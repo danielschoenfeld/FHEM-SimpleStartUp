@@ -1,0 +1,44 @@
+#Sun Nov 29 14:46:35 2020
+setstate Abfallkalender triggered
+setstate Abfallkalender 2020-11-29 13:18:21 calname Abfallwirtschaft Stuttgart
+setstate Abfallkalender 2020-11-29 13:18:21 lastUpdate 2020-11-29 13:18:20
+setstate Abfallkalender 2020-11-25 21:03:33 modeAlarm 
+setstate Abfallkalender 2020-11-27 00:00:00 modeAlarmOrStart 
+setstate Abfallkalender 2020-11-25 21:03:33 modeAlarmed 
+setstate Abfallkalender 2020-11-27 03:40:37 modeChanged 
+setstate Abfallkalender 2020-11-27 00:00:00 modeEnd sabrevobjectff70ab8b09a34cdb85130628b34a4752
+setstate Abfallkalender 2020-11-27 03:40:37 modeEnded 
+setstate Abfallkalender 2020-11-27 00:00:00 modeStart 
+setstate Abfallkalender 2020-11-25 21:03:33 modeStarted 
+setstate Abfallkalender 2020-11-29 13:18:21 modeUpcoming sabrevobject50e7bf6fe18e471bbc5704c37b06b308;;sabrevobjecte5f77d02c4c14a49aae38dba0ef95e70;;sabrevobject870879782c8a408a87bb95e11db96973;;sabrevobject6fbee4fdc4c040ccaba4c81407a8f687;;sabrevobject390fb871aae547b8ac39c96ad44da3d9;;sabrevobjectb3be5f13f9004c0e98c4a205c3574b10;;sabrevobjecta1697bc40d6d4c3bbceb6b08962d0771;;sabrevobject4c98c8e1e4c54e5c973d5437f4bd614d;;sabrevobject40b6a6f11c134133a7ef7b6eacf587af;;sabrevobjectc97a57af352e485abcbc22b04ab6a7a5;;sabrevobject66171642262a43bf89c92ff4ab0b8fdb;;sabrevobject9062d0e4ced04a5d9b5c1f0d7594ff61;;sabrevobject3f4620510bb8490e8f4462abfbc79627;;sabrevobject6e2ea38d3dfa410dae72f00817f228a7;;sabrevobject2cff8faa9a5f4aa4a2a92f18b5b3a0c6;;sabrevobject8bf5e4fa6f6c49919d9be1c935eaa3ec;;sabrevobject8525a76b826e48b3ab0cfce61a41742d;;sabrevobject65e68685fba443dcbf1a8796b17689f5;;sabrevobjecta668c381b2ab4098b81e5a6409f38be1;;sabrevobject6d9d8cf46b23423eab934dacadf02f3c;;sabrevobjectecf1cd2deea34c17b3ba1972c1f0f847;;sabrevobject2ff40ce4bf2048398bede447cfe7256b
+setstate Abfallkalender 2020-11-29 13:18:21 nextUpdate 2020-11-29 17:18:20
+setstate Abfallkalender 2020-11-29 13:18:21 nextWakeup 2020-11-29 17:18:20
+setstate Abfallkalender 2020-11-29 13:18:21 state triggered
+setstate Abfallkalender_EventEnde active
+setstate Abfallkalender_EventEnde 2020-11-27 09:17:59 state active
+setstate Abfallkalender_EventStart active
+setstate Abfallkalender_EventStart 2020-11-27 09:17:59 state active
+setstate Bio_Tonne nein
+setstate Bio_Tonne 2020-11-26 18:28:21 state nein
+setstate Gelber_Sack nein
+setstate Gelber_Sack 2020-11-26 11:30:25 state nein
+setstate Logfile active
+setstate Papier_Tonne nein
+setstate Papier_Tonne 2020-11-26 11:30:26 state nein
+setstate Restmuell_Tonne nein
+setstate Restmuell_Tonne 2020-11-26 11:30:26 state nein
+setstate WEB 2020-11-27 09:17:58 state Initialized
+setstate allowed validFor:
+setstate allowed 2020-11-27 09:17:58 state validFor:
+setstate allowed_WEB validFor:WEB
+setstate allowed_WEB 2020-11-27 09:17:58 state validFor:WEB
+setstate autocreate active
+setstate eventTypes active
+setstate global no definition
+setstate initialUsbCheck 2020-11-27 09:17:59
+setstate initialUsbCheck 2020-11-27 09:17:58 state active
+setstate nanoCUL opened
+setstate nanoCUL 2020-11-29 14:43:23 credit10ms No answer
+setstate nanoCUL 2020-11-29 14:41:47 state opened
+setstate nanoCUL 2020-11-29 14:43:27 uptime No answer
+setstate nanoCUL 2020-11-29 14:42:19 version No answer

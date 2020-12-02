@@ -1,0 +1,40 @@
+#Tue Dec  1 22:57:11 2020
+setstate Abfallkalender triggered
+setstate Abfallkalender 2020-11-29 13:18:21 calname Abfallwirtschaft Stuttgart
+setstate Abfallkalender 2020-11-29 13:18:21 lastUpdate 2020-11-29 13:18:20
+setstate Abfallkalender 2020-11-25 21:03:33 modeAlarm 
+setstate Abfallkalender 2020-11-27 00:00:00 modeAlarmOrStart 
+setstate Abfallkalender 2020-11-25 21:03:33 modeAlarmed 
+setstate Abfallkalender 2020-11-27 03:40:37 modeChanged 
+setstate Abfallkalender 2020-11-29 16:43:59 modeEnd 
+setstate Abfallkalender 2020-11-27 03:40:37 modeEnded 
+setstate Abfallkalender 2020-11-27 00:00:00 modeStart 
+setstate Abfallkalender 2020-11-25 21:03:33 modeStarted 
+setstate Abfallkalender 2020-11-29 16:43:59 modeUpcoming 
+setstate Abfallkalender 2020-11-29 13:18:21 nextUpdate 2020-11-29 17:18:20
+setstate Abfallkalender 2020-12-01 22:57:10 nextWakeup 2020-12-02 02:56:40
+setstate Abfallkalender 2020-12-01 22:57:10 state triggered
+setstate Abfallkalender_EventEnde active
+setstate Abfallkalender_EventEnde 2020-12-01 22:56:25 state active
+setstate Abfallkalender_EventStart active
+setstate Abfallkalender_EventStart 2020-12-01 22:56:25 state active
+setstate Bio_Tonne nein
+setstate Bio_Tonne 2020-11-26 18:28:21 state nein
+setstate Gelber_Sack nein
+setstate Gelber_Sack 2020-11-26 11:30:25 state nein
+setstate Logfile active
+setstate Papier_Tonne nein
+setstate Papier_Tonne 2020-11-26 11:30:26 state nein
+setstate Restmuell_Tonne nein
+setstate Restmuell_Tonne 2020-11-26 11:30:26 state nein
+setstate TABLETUI TABLETUI
+setstate WEB 2020-12-01 22:56:25 state Initialized
+setstate allowed validFor:
+setstate allowed 2020-12-01 22:56:25 state validFor:
+setstate allowed_WEB validFor:WEB
+setstate allowed_WEB 2020-12-01 22:56:25 state validFor:WEB
+setstate autocreate active
+setstate eventTypes active
+setstate global no definition
+setstate initialUsbCheck 2020-12-01 22:56:25
+setstate initialUsbCheck 2020-12-01 22:56:25 state active

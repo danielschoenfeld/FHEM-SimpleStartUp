@@ -1,0 +1,38 @@
+14 Abfallkalender calname: Abfallwirtschaft Stuttgart
+1 Abfallkalender changed: sabrevobjectff70ab8b09a34cdb85130628b34a4752 end
+1 Abfallkalender end: sabrevobjectff70ab8b09a34cdb85130628b34a4752
+14 Abfallkalender lastUpdate: .*
+1 Abfallkalender modeAlarm:
+2 Abfallkalender modeAlarmOrStart:
+1 Abfallkalender modeAlarmOrStart: sabrevobjectff70ab8b09a34cdb85130628b34a4752
+1 Abfallkalender modeAlarmed:
+2 Abfallkalender modeChanged:
+1 Abfallkalender modeChanged: sabrevobjectff70ab8b09a34cdb85130628b34a4752
+2 Abfallkalender modeEnd:
+1 Abfallkalender modeEnd: sabrevobjectff70ab8b09a34cdb85130628b34a4752
+2 Abfallkalender modeEnded:
+1 Abfallkalender modeEnded: sabrevobjectff70ab8b09a34cdb85130628b34a4752
+2 Abfallkalender modeStart:
+1 Abfallkalender modeStart: sabrevobjectff70ab8b09a34cdb85130628b34a4752
+1 Abfallkalender modeStarted:
+2 Abfallkalender modeUpcoming:
+14 Abfallkalender nextUpdate: .*
+19 Abfallkalender nextWakeup: .*
+23 Abfallkalender reload
+3 Abfallkalender state: error (connect to http://.* timed out)
+1 Abfallkalender state: error (connect to http://.*: Network is unreachable)
+4 Abfallkalender state: error (no or empty data)
+2 Abfallkalender state: initialized
+14 Abfallkalender state: parsed
+15 Abfallkalender state: retrieved
+19 Abfallkalender state: triggered
+2 Abfallkalender update
+2 Abfallkalender_EventEnde state: active
+2 Abfallkalender_EventStart state: active
+12 Bio_Tonne state: ja
+12 Bio_Tonne state: nein
+1 Gelber_Sack state: ja
+4 Gelber_Sack state: nein
+1 Papier_Tonne state: ja
+2 Papier_Tonne state: nein
+2 Restmuell_Tonne state: nein
